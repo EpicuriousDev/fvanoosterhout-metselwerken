@@ -1,0 +1,167 @@
+/* 
+Copyright @ 2022: Luuk van Oosterhout, Epicurious Development.
+*/
+
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+  background-color: #eeeeee;
+}
+
+.head-nav-bar {
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+  height: 101px;
+  z-index: 1;
+  background-color: rgba(48, 56, 65, 1);
+  display: flex;
+  align-items: center;
+}
+
+.head-nav-bar .header-logo h1 {
+  margin: 0%;
+  padding: 1% 0% 1% 0%;
+}
+
+.head-nav-bar .header-logo p {
+  margin: 0%;
+  padding: 0%;
+}
+
+.header-logo {
+  background-color: orange;
+  width: 50%;
+  height: 101px;
+}
+
+.logo {
+  height: 101px;
+  width: 150px;
+  margin-left: 5%;
+  padding: 0;
+}
+
+.header-nav-bar {
+  width: 50%;
+  background-color: blue;
+  height: 101px;
+}
+
+.header-nav-bar-1 {
+  width: 15%;
+  height: 101px;
+  margin-left: 25%;
+  background-color: green;
+  display: inline-block;
+}
+
+.header-nav-bar-2 {
+  width: 15%;
+  height: 101px;
+  background-color: white;
+  display: inline-block;
+}
+
+.header-nav-bar-3 {
+  width: 15%;
+  height: 101px;
+  background-color: blueviolet;
+  display: inline-block;
+}
+
+.header-nav-bar-4 {
+  width: 15%;
+  height: 101px;
+  background-color: rosybrown;
+  display: inline-block;
+}
+
+.header-nav-bar-5 {
+  width: 15%;
+  height: 101px;
+  background-color: orchid;
+  display: inline-block;
+}
+
+.header-nav-bar-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-nav-bar-container a {
+  font-weight: 500;
+}
+
+.autoplayslider-wrapper {
+  height: 979px;
+  width: 100%;
+  background-color: orange;
+  margin: 0%;
+}
+
+.awssld {
+  height: 868px;
+}
+
+.awssld__bullets {
+  bottom: 0px;
+  color: #00adb5;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+a {
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+h4 {
+  font-family: "Roboto", sans-serif;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+}
+
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
